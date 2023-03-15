@@ -1,1 +1,1 @@
-React start project
+BudgetApp with supabase and react
